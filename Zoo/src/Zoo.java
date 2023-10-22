@@ -149,37 +149,7 @@ public class Zoo {
             }
         }
     }
-   /* public abstract void swim() {
-
-    }*/
-
-
-/*
-    Aquatic[] aquaticAnimals = new Aquatic[10];
-    aquaticAnimals [0] = new Dauphin ("Delphinidae", "Flipper", 5, true, "Ocean", 14.5f);
-    aquaticAnimals[1] = new Pingouin("Spheniscidae", "Skipper", 3, true, "Ocean", 25.3f);
-   // aquaticAnimals[1]=new Dauphin();
-   // aquaticAnimals[2]=new Dauphin();
-    //Aquatic aquatic = new Aquatic("Fish", "Sardine", 2, true, "Sea");
-/*public void addAquaticAnimal(Aquatic aquatic){
-}
-*/
-    // Méthode pour ajouter un animal aquatique au tableau
- /*   public void addAquaticAnimal(Aquatic aquatic) {
-        for (int i = 0; i < aquaticAnimals.length; i++) {
-            if (aquaticAnimals[i] == null) {
-                aquaticAnimals[i] = aquatic;
-                System.out.println("Animal aquatique ajouté avec succès.");
-                return; // Sortir de la boucle après avoir ajouté l'animal
-            }
-        }
-        System.out.println("Le tableau d'animaux aquatiques est plein. Impossible d'ajouter l'animal.");
-    }*/
-    // Autres méthodes pour gérer les animaux aquatiques dans le zoo
-
-
-
-
+   
 
 
 
